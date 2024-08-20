@@ -1,3 +1,8 @@
+# Business landing page with modern UI
+
+![screenshots of the project](./business.png)
+
+
 # React + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
